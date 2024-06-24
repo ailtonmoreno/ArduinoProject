@@ -44,7 +44,7 @@ String storedPasswords[] = {"1234", "5678", "9012"}; // Senhas permitidas
 const String masterPassword = "4321"; // Senha mestra
 
 // UID do cartão administrador
-byte masterCard[4] = {0x44, 0x87, 0x17, 0x5B}; // Número do cartão administrador
+byte masterCard[4] = {0x14, 0x44, 0x10, 0x0B}; // Número do cartão administrador
 
 // Variáveis de controle
 String enteredPassword = ""; // Armazena a senha digitada
